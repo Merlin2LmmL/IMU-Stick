@@ -21,7 +21,7 @@ Since we're using a bare chip here, we obviously need flash memory to store the 
 <img width="1608" height="1110" alt="image" src="https://github.com/user-attachments/assets/d1088152-8eb0-44e9-9693-d19b12f7da93" />
 
 ### PCB
-<img width="1305" height="539" alt="image" src="https://github.com/user-attachments/assets/35a09891-5cc4-47d8-98d2-4c583176b211" />
+<img width="1361" height="605" alt="image" src="https://github.com/user-attachments/assets/7b2ea3a1-5258-4bcb-9400-0f7e5d28ead0" />
 
 ### Case
 <img width="1655" height="1097" alt="Screenshot 2026-01-05 172002" src="https://github.com/user-attachments/assets/61cf0380-802f-4761-89aa-21fb4930cae5" />
